@@ -6,11 +6,11 @@ Hello my name is Hayk I love my PYTHON TEACHER.
 My Technologies DevOps Stack:
 
 ![Linux](https://img.shields.io/badge/OS-Linux-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Build-Jenkins-informational?style=flat&logo=jenkins&logoColor=white)
-![Teraform](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Build-Jenkins-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Teraform](https://img.shields.io/badge/Tools-Terraform-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Ansible](https://img.shields.io/badge/Tools-Ansible-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GithubPages](https://img.shields.io/badge/github%20pages-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -23,4 +23,4 @@ My Technologies DevOps Stack:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishi1414&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=devopshayk&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=hrishi1414&icon=0&color=0)](https://visitcount.itsvg.in)
