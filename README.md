@@ -5,7 +5,7 @@ Hello my name is Hayk I love my PYTHON TEACHER.
 # 💻 Tech Stack:
 My Technologies DevOps Stack:
 
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=orange)
+![Linux](https://img.shields.io/badge/OS-Linux-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Build-Jenkins-informational?style=flat&logo=jenkins&logoColor=white)
 ![Teraform](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white)
