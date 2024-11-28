@@ -5,12 +5,10 @@ Hello my name is Hayk I love my PYTHON TEACHER.
 # 💻 Tech Stack:
 My Technologies DevOps Stack:
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Build-Jenkins-informational?style=flat&logo=jenkins&logoColor=white)
-![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white)
-![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=orange)
+![Jenkins](https://img.shields.io/badge/Build-Jenkins-informational?style=flat&logo=jenkins&logoColor=white)
+![Teraform](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
