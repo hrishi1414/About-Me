@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello my name is Hayk I love my PYTHON TEACHER.
+Hello my name is Rushikesh
 
 
 # 💻 Tech Stack:
